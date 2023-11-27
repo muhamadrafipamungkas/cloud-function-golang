@@ -1,4 +1,4 @@
-module github.com/muhamadrafipamungkas/cloud-function-golang.git
+module github.com/muhamadrafipamungkas/cloud-function-golang
 
 go 1.19
 
