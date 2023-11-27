@@ -840,14 +840,10 @@ github.com/modern-go/concurrent v0.0.0-20180306012644-bacd9c7ef1dd/go.mod h1:6dJ
 github.com/modern-go/reflect2 v0.0.0-20180701023420-4b7aa43c6742/go.mod h1:bx2lNnkwVCuqBIxFjflWJWanXIb3RllmbCylyMrvgv0=
 github.com/modern-go/reflect2 v1.0.2 h1:xBagoLtFs94CBntxluKeaWgTMpvLxC4ur3nMaC9Gz0M=
 github.com/modern-go/reflect2 v1.0.2/go.mod h1:yWuevngMOJpCy52FWWMvUC8ws7m/LJsjYzDa0/r8luk=
-github.com/muhamadrafipamungkas/cloud-function-golang/src/hello v0.0.0-20231127065930-ed176e2f0438 h1:wAExVl4n3QvsBg48kxyDxgHRH+x0Mhyswzabs+Xdql0=
-github.com/muhamadrafipamungkas/cloud-function-golang/src/hello v0.0.0-20231127065930-ed176e2f0438/go.mod h1:TfmSZd7Xu3GhulyiyQ0MIcqLDUiquu7lcRGZuDGtncA=
 github.com/muhamadrafipamungkas/cloud-function-golang/src/hello v0.0.0-20231127084524-d6322e52cace h1:xzh47NvLdGRMLEo0HJq/uVALNjoSRDcci2LoHoESCWo=
 github.com/muhamadrafipamungkas/cloud-function-golang/src/hello v0.0.0-20231127084524-d6322e52cace/go.mod h1:3HcUz02leClbzM4adBYPtMzP3cf8dei/LBU1s6h82jU=
-github.com/muhamadrafipamungkas/cloud-function-golang/src/user v0.0.0-20231127065930-ed176e2f0438 h1:YL5Ig3ZrffzSc3PRjGqUQBON9VOvOXK4CEHKZ1aMHRc=
-github.com/muhamadrafipamungkas/cloud-function-golang/src/user v0.0.0-20231127065930-ed176e2f0438/go.mod h1:+xZ4zCzeqdoR+uXdIUxYjw0MsiUYjOHGPYAU0WQ0ZZc=
-github.com/muhamadrafipamungkas/cloud-function-golang/src/user v0.0.0-20231127084524-d6322e52cace h1:cSmMX7y5raYi6bCYYoHa3adqz/nDpIy9to3OTgjym7c=
-github.com/muhamadrafipamungkas/cloud-function-golang/src/user v0.0.0-20231127084524-d6322e52cace/go.mod h1:0nypCWFAm5YfHHkDLSdE+qAbp7NQRyDpeJmIM8m4HnE=
+github.com/muhamadrafipamungkas/cloud-function-golang/src/user v0.0.0-20231127085007-881a5b96ca3c h1:Z9rhHVX++kCgyKxUihkEqv9rYJB7glZNUy06XlFOXVQ=
+github.com/muhamadrafipamungkas/cloud-function-golang/src/user v0.0.0-20231127085007-881a5b96ca3c/go.mod h1:0nypCWFAm5YfHHkDLSdE+qAbp7NQRyDpeJmIM8m4HnE=
 github.com/niemeyer/pretty v0.0.0-20200227124842-a10e7caefd8e/go.mod h1:zD1mROLANZcx1PVRCS0qkT7pwLkGfwJo4zjcN/Tysno=
 github.com/pelletier/go-toml/v2 v2.1.0 h1:FnwAJ4oYMvbT/34k9zzHuZNrhlz48GB3/s6at6/MHO4=
 github.com/pelletier/go-toml/v2 v2.1.0/go.mod h1:tJU2Z3ZkXwnxa4DPO899bsyIoywizdUvyaeZurnPPDc=
