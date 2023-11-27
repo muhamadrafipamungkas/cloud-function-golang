@@ -11,12 +11,9 @@
 # from your .gitignore file, remove the corresponding line
 # below:
 .git
-.gitignore
 
 node_modules
-#!include:.gitignore
 
 go.mod
 go.sum
-
-cmd/
+cmd

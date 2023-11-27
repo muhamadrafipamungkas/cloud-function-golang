@@ -20,5 +20,6 @@ func HelloUser(w http.ResponseWriter, r *http.Request) {
 		fmt.Fprint(w, "Hello, User!")
 		return
 	}
+
 	fmt.Fprintf(w, "Hello, %s!", html.EscapeString(d.Name))
 }

@@ -5,8 +5,7 @@ import (
 	"os"
 
 	"github.com/GoogleCloudPlatform/functions-framework-go/funcframework"
-	_ "github.com/muhamadrafipamungkas/cloud-function-golang/src/hello"
-	_ "github.com/muhamadrafipamungkas/cloud-function-golang/src/user"
+	_ "github.com/muhamadrafipamungkas/cloud-function-golang"
 )
 
 func main() {

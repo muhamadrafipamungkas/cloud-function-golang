@@ -4,6 +4,8 @@ go 1.19
 
 require (
 	github.com/GoogleCloudPlatform/functions-framework-go v1.8.0
+	github.com/muhamadrafipamungkas/cloud-function-golang/src/hello v0.0.0-20231127065930-ed176e2f0438
+	github.com/muhamadrafipamungkas/cloud-function-golang/src/user v0.0.0-20231127065930-ed176e2f0438
 	github.com/spf13/viper v1.17.0
 )
 
